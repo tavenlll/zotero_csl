@@ -31,7 +31,9 @@ https://zotero-chinese.com/
 
 希望给大家提供一点点帮助呀~
 
-使用如遇问题请联系：tavenlllllll@gmail.com
+使用中的问题以及格式细节的错误欢迎反馈！
+
+请联系：tavenlllllll@gmail.com
 
 
 
