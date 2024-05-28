@@ -13,7 +13,7 @@ https://github.com/redleafnew/Chinese-STD-GB-T-7714-related-csl
 https://zotero-chinese.com/
 
 
-当前测试：
+当前测试：#首先保证参考文献需要的信息在zotero的info里是存在的#
 
 1.期刊
 
